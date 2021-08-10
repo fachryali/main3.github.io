@@ -1,0 +1,29 @@
+.main_3 {
+    background-color: #f8a5c2;
+    text-align: center;
+    font-family:sans-serif;
+    width:100%;
+    margin:0 auto;
+    padding:80px 0px;
+}
+
+.main_3 h2 {
+  font-size:20px;
+  margin-bottom:10px;
+}
+.main_3 h3 {
+  font-size:17px;
+  font-weight:normal;
+  margin-bottom:20px;
+}
+
+.bi-chevron-double-down{
+    cursor:pointer;
+}
+.bi-chevron-double-down:hover {
+  position:relative;
+  top:10px;
+}
+.bi-chevron-double-down:active {
+
+}
